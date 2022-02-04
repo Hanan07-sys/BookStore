@@ -1,0 +1,66 @@
+body {
+    background-image: url(../img/bg4.jpg);
+    background-repeat: no-repeat;
+}
+
+#header {
+    background-color: grey;
+}
+
+.container {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    background: rgb(250, 243, 243);
+    background: radial-gradient(circle, rgba(250, 243, 243, 1) 0%, rgba(250, 243, 243, 1) 100%);
+}
+
+
+#isi {
+    position: relative;
+    top: 430px;
+    left: 280px;
+}
+
+#search {
+    position: relative;
+    left: 800px;
+    top: 60px;
+
+}
+
+#cari {
+    position: relative;
+    top: 0px;
+    left: -50px;
+}
+
+#form {
+    position: relative;
+    top: -15px;
+    margin-left: 5px;
+}
+
+#tmblcari {
+    position: relative;
+    top: 0px;
+    left: -50px;
+
+}
+.sampul{
+    width :100px;
+}
+.table>tbody>tr>td{
+    vertical-align:middle;
+}
+#isicard{
+    position:relative;
+    left:550px;
+}
+#navbar{
+    background : black;
+}
+
